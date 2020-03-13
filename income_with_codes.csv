@@ -1,0 +1,617 @@
+,name,county,median_income,county2,CODE,COUNTY
+ABERDEEN,Aberdeen,Monmouth,84720,MONMOUTH,1301.0,Monmouth County
+ABSECON,Absecon,Atlantic,63656,ATLANTIC,101.0,Atlantic County
+ALEXANDRIA,Alexandria,Hunterdon,130262,HUNTERDON,1001.0,Hunterdon County
+ALLAMUCHY,Allamuchy,Warren,88802,WARREN,2101.0,Warren County
+ALLENDALE,Allendale,Bergen,140331,BERGEN,201.0,Bergen County
+ALLENHURST,Allenhurst,Monmouth,83155,MONMOUTH,1302.0,Monmouth County
+ALLENTOWN,Allentown,Monmouth,97434,MONMOUTH,1303.0,Monmouth County
+ALLOWAY,Alloway,Salem,73586,SALEM,1701.0,Salem County
+ALPHA,Alpha,Warren,58804,WARREN,2102.0,Warren County
+ALPINE,Alpine,Bergen,111146,BERGEN,202.0,Bergen County
+ANDOVER,Andover,Sussex,103598,SUSSEX,1901.0,Sussex County
+ANDOVER,Andover,Sussex,103598,SUSSEX,1902.0,Sussex County
+ANDOVER,Andover,Sussex,76875,SUSSEX,1901.0,Sussex County
+ANDOVER,Andover,Sussex,76875,SUSSEX,1902.0,Sussex County
+ASBURY PARK,Asbury Park,Monmouth,32755,MONMOUTH,1304.0,Monmouth County
+ATLANTIC CITY,Atlantic City,Atlantic,25737,ATLANTIC,102.0,Atlantic County
+ATLANTIC HIGHLANDS,Atlantic Highlands,Monmouth,88024,MONMOUTH,1305.0,Monmouth County
+AUDUBON,Audubon,Camden,79000,CAMDEN,401.0,Camden County
+AUDUBON PARK,Audubon Park,Camden,44722,CAMDEN,402.0,Camden County
+AVALON,Avalon,Cape May,83523,CAPE MAY,0501,
+AVON-BY-THE-SEA,Avon-by-the-Sea,Monmouth,71513,MONMOUTH,,
+BARNEGAT,Barnegat,Ocean,65405,OCEAN,1501.0,Ocean County
+BARNEGAT LIGHT,Barnegat Light,Ocean,77500,OCEAN,1502.0,Ocean County
+BARRINGTON,Barrington,Camden,61711,CAMDEN,403.0,Camden County
+BASS RIVER TOWNSHIP,Bass River Township,Burlington,62727,BURLINGTON,,
+BAY HEAD,Bay Head,Ocean,108542,OCEAN,1503.0,Ocean County
+BAYONNE,Bayonne,Hudson,54413,HUDSON,901.0,Hudson County
+BEACH HAVEN,Beach Haven,Ocean,71964,OCEAN,1504.0,Ocean County
+BEACHWOOD,Beachwood,Ocean,71540,OCEAN,1505.0,Ocean County
+BEDMINSTER,Bedminster,Somerset,96644,SOMERSET,1801.0,Somerset County
+BELLEVILLE,Belleville,Essex,65234,ESSEX,701.0,Essex County
+BELLMAWR,Bellmawr,Camden,50784,CAMDEN,404.0,Camden County
+BELMAR,Belmar,Monmouth,62083,MONMOUTH,1307.0,Monmouth County
+BELVIDERE,Belvidere,Warren,56221,WARREN,2103.0,Warren County
+BERGENFIELD,Bergenfield,Bergen,79000,BERGEN,203.0,Bergen County
+BERKELEY HEIGHTS,Berkeley Heights,Union,139152,UNION,2001.0,Union County
+BERKELEY TOWNSHIP,Berkeley Township,Ocean,43942,OCEAN,,
+BERLIN,Berlin,Camden,82429,CAMDEN,405.0,Camden County
+BERLIN,Berlin,Camden,82429,CAMDEN,406.0,Camden County
+BERLIN TOWNSHIP,Berlin Township,Camden,58893,CAMDEN,,
+BERNARDS,Bernards,Somerset,129690,SOMERSET,1802.0,Somerset County
+BERNARDSVILLE,Bernardsville,Somerset,114444,SOMERSET,1803.0,Somerset County
+BETHLEHEM TOWNSHIP,Bethlehem Township,Hunterdon,130565,HUNTERDON,,
+BEVERLY,Beverly,Burlington,50880,BURLINGTON,302.0,Burlington County
+BLAIRSTOWN,Blairstown,Warren,84717,WARREN,2104.0,Warren County
+BLOOMFIELD,Bloomfield,Essex,72840,ESSEX,702.0,Essex County
+BLOOMINGDALE,Bloomingdale,Passaic,75781,PASSAIC,1601.0,Passaic County
+BLOOMSBURY,Bloomsbury,Hunterdon,76071,HUNTERDON,1003.0,Hunterdon County
+BOGOTA,Bogota,Bergen,76649,BERGEN,204.0,Bergen County
+BOONTON,Boonton,Morris,115268,MORRIS,1401.0,Morris County
+BOONTON,Boonton,Morris,115268,MORRIS,1402.0,Morris County
+BOONTON,Boonton,Morris,90326,MORRIS,1401.0,Morris County
+BOONTON,Boonton,Morris,90326,MORRIS,1402.0,Morris County
+BORDENTOWN,Bordentown,Burlington,86104,BURLINGTON,303.0,Burlington County
+BORDENTOWN,Bordentown,Burlington,86104,BURLINGTON,304.0,Burlington County
+BORDENTOWN,Bordentown,Burlington,68266,BURLINGTON,303.0,Burlington County
+BORDENTOWN,Bordentown,Burlington,68266,BURLINGTON,304.0,Burlington County
+BOUND BROOK,Bound Brook,Somerset,62263,SOMERSET,1804.0,Somerset County
+BRADLEY BEACH,Bradley Beach,Monmouth,61682,MONMOUTH,1308.0,Monmouth County
+BRANCHBURG,Branchburg,Somerset,124306,SOMERSET,1805.0,Somerset County
+BRANCHVILLE,Branchville,Sussex,67308,SUSSEX,1903.0,Sussex County
+BRICK,Brick,Ocean,70647,OCEAN,1507.0,Ocean County
+BRIDGETON,Bridgeton,Cumberland,36208,CUMBERLAND,601.0,Cumberland County
+BRIDGEWATER,Bridgewater,Somerset,114510,SOMERSET,1806.0,Somerset County
+BRIELLE,Brielle,Monmouth,122416,MONMOUTH,1309.0,Monmouth County
+BRIGANTINE,Brigantine,Atlantic,57031,ATLANTIC,103.0,Atlantic County
+BROOKLAWN,Brooklawn,Camden,60208,CAMDEN,407.0,Camden County
+BUENA,Buena,Atlantic,46169,ATLANTIC,104.0,Atlantic County
+BUENA VISTA,Buena Vista,Atlantic,50421,ATLANTIC,105.0,Atlantic County
+BURLINGTON,Burlington,Burlington,81798,BURLINGTON,305.0,Burlington County
+BURLINGTON,Burlington,Burlington,81798,BURLINGTON,306.0,Burlington County
+BURLINGTON CITY,Burlington City,Burlington,55072,BURLINGTON,,
+BUTLER,Butler,Morris,92377,MORRIS,1403.0,Morris County
+BYRAM,Byram,Sussex,104281,SUSSEX,1904.0,Sussex County
+CALDWELL,Caldwell,Essex,72708,ESSEX,,
+CALIFON,Califon,Hunterdon,100833,HUNTERDON,1004.0,Hunterdon County
+CAMDEN,Camden,Camden,25042,CAMDEN,408.0,Camden County
+CAPE MAY,Cape May,Cape May,50625,CAPE MAY,,
+CAPE MAY POINT,Cape May Point,Cape May,53125,CAPE MAY,,
+CARLSTADT,Carlstadt,Bergen,70056,BERGEN,205.0,Bergen County
+CARNEYS POINT,Carneys Point,Salem,53474,SALEM,1702.0,Salem County
+CARTERET,Carteret,Middlesex,67068,MIDDLESEX,1201.0,Middlesex County
+CEDAR GROVE,Cedar Grove,Essex,101779,ESSEX,704.0,Essex County
+CHATHAM,Chatham,Morris,151216,MORRIS,1404.0,Morris County
+CHATHAM,Chatham,Morris,151216,MORRIS,1405.0,Morris County
+CHATHAM BOROUGH,Chatham Borough,Morris,142765,MORRIS,,
+CHERRY HILL,Cherry Hill,Camden,92185,CAMDEN,409.0,Camden County
+CHESILHURST,Chesilhurst,Camden,53516,CAMDEN,410.0,Camden County
+CHESTER,Chester,Morris,154094,MORRIS,1406.0,Morris County
+CHESTER,Chester,Morris,154094,MORRIS,1407.0,Morris County
+CHESTER,Chester,Morris,97250,MORRIS,1406.0,Morris County
+CHESTER,Chester,Morris,97250,MORRIS,1407.0,Morris County
+CHESTERFIELD,Chesterfield,Burlington,120515,BURLINGTON,307.0,Burlington County
+CINNAMINSON,Cinnaminson,Burlington,90286,BURLINGTON,308.0,Burlington County
+CITY OF ORANGE,City of Orange,Essex,33233,ESSEX,,
+CLARK,Clark,Union,90956,UNION,2002.0,Union County
+CLAYTON,Clayton,Gloucester,63628,GLOUCESTER,801.0,Gloucester County
+CLEMENTON,Clementon,Camden,52661,CAMDEN,411.0,Camden County
+CLIFFSIDE PARK,Cliffside Park,Bergen,60979,BERGEN,206.0,Bergen County
+CLIFTON,Clifton,Passaic,67992,PASSAIC,1602.0,Passaic County
+CLINTON,Clinton,Hunterdon,101422,HUNTERDON,1005.0,Hunterdon County
+CLINTON,Clinton,Hunterdon,101422,HUNTERDON,1006.0,Hunterdon County
+CLINTON TOWNSHIP,Clinton Township,Hunterdon,123147,HUNTERDON,,
+CLOSTER,Closter,Bergen,124023,BERGEN,207.0,Bergen County
+COLLINGSWOOD,Collingswood,Camden,60777,CAMDEN,412.0,Camden County
+COLTS NECK,Colts Neck,Monmouth,160000,MONMOUTH,1310.0,Monmouth County
+COMMERCIAL TOWNSHIP,Commercial Township,Cumberland,46195,CUMBERLAND,,
+CORBIN CITY,Corbin City,Atlantic,56875,ATLANTIC,106.0,Atlantic County
+CRANBURY,Cranbury,Middlesex,128750,MIDDLESEX,1202.0,Middlesex County
+CRANFORD,Cranford,Union,115201,UNION,2003.0,Union County
+CRESSKILL,Cresskill,Bergen,110156,BERGEN,208.0,Bergen County
+DEAL,Deal,Monmouth,80714,MONMOUTH,1311.0,Monmouth County
+DEERFIELD,Deerfield,Cumberland,67012,CUMBERLAND,603.0,Cumberland County
+DELANCO,Delanco,Burlington,67153,BURLINGTON,309.0,Burlington County
+DELAWARE,Delaware,Hunterdon,104643,HUNTERDON,1007.0,Hunterdon County
+DELRAN,Delran,Burlington,90512,BURLINGTON,310.0,Burlington County
+DEMAREST,Demarest,Bergen,163571,BERGEN,209.0,Bergen County
+DENNIS TOWNSHIP,Dennis Township,Cape May,66727,CAPE MAY,,
+DENVILLE,Denville,Morris,104815,MORRIS,1408.0,Morris County
+DEPTFORD,Deptford,Gloucester,64705,GLOUCESTER,802.0,Gloucester County
+DOVER,Dover,Morris,60822,MORRIS,1409.0,Morris County
+DOWNE,Downe,Cumberland,45333,CUMBERLAND,604.0,Cumberland County
+DUMONT,Dumont,Bergen,93074,BERGEN,210.0,Bergen County
+DUNELLEN,Dunellen,Middlesex,77099,MIDDLESEX,1203.0,Middlesex County
+EAGLESWOOD,Eagleswood,Ocean,85000,OCEAN,1509.0,Ocean County
+EAST AMWELL,East Amwell,Hunterdon,97031,HUNTERDON,1008.0,Hunterdon County
+EAST BRUNSWICK,East Brunswick,Middlesex,98658,MIDDLESEX,1204.0,Middlesex County
+EAST GREENWICH TOWNSHIP,East Greenwich Township,Gloucester,113421,GLOUCESTER,,
+EAST HANOVER,East Hanover,Morris,102165,MORRIS,1410.0,Morris County
+EAST NEWARK,East Newark,Hudson,49375,HUDSON,902.0,Hudson County
+EAST ORANGE,East Orange,Essex,36921,ESSEX,705.0,Essex County
+EAST RUTHERFORD,East Rutherford,Bergen,78680,BERGEN,,
+EAST WINDSOR,East Windsor,Mercer,82700,MERCER,1101.0,Mercer County
+EASTAMPTON,Eastampton,Burlington,70814,BURLINGTON,311.0,Burlington County
+EATONTOWN,Eatontown,Monmouth,64149,MONMOUTH,1312.0,Monmouth County
+EDGEWATER,Edgewater,Bergen,101767,BERGEN,213.0,Bergen County
+EDGEWATER PARK,Edgewater Park,Burlington,62475,BURLINGTON,312.0,Burlington County
+EDISON,Edison,Middlesex,90515,MIDDLESEX,1205.0,Middlesex County
+EGG HARBOR,Egg Harbor,Atlantic,74409,ATLANTIC,107.0,Atlantic County
+EGG HARBOR,Egg Harbor,Atlantic,74409,ATLANTIC,108.0,Atlantic County
+EGG HARBOR CITY,Egg Harbor City,Atlantic,43235,ATLANTIC,,
+ELIZABETH,Elizabeth,Union,43568,UNION,2004.0,Union County
+ELK TOWNSHIP,Elk Township,Gloucester,67321,GLOUCESTER,,
+ELMER,Elmer,Salem,72411,SALEM,1703.0,Salem County
+ELMWOOD PARK,Elmwood Park,Bergen,71852,BERGEN,211.0,Bergen County
+ELSINBORO,Elsinboro,Salem,66094,SALEM,1704.0,Salem County
+EMERSON,Emerson,Bergen,102500,BERGEN,214.0,Bergen County
+ENGLEWOOD,Englewood,Bergen,75074,BERGEN,215.0,Bergen County
+ENGLEWOOD CLIFFS,Englewood Cliffs,Bergen,140605,BERGEN,216.0,Bergen County
+ENGLISHTOWN,Englishtown,Monmouth,83317,MONMOUTH,1313.0,Monmouth County
+ESSEX FELLS,Essex Fells,Essex,172386,ESSEX,706.0,Essex County
+ESTELL MANOR,Estell Manor,Atlantic,78750,ATLANTIC,109.0,Atlantic County
+EVESHAM,Evesham,Burlington,90797,BURLINGTON,313.0,Burlington County
+EWING,Ewing,Mercer,77464,MERCER,1102.0,Mercer County
+FAIR HAVEN,Fair Haven,Monmouth,157344,MONMOUTH,1314.0,Monmouth County
+FAIR LAWN,Fair Lawn,Bergen,99536,BERGEN,,
+FAIRFIELD,Fairfield,Essex,106691,ESSEX,605.0,Cumberland County
+FAIRFIELD,Fairfield,Essex,106691,ESSEX,707.0,Essex County
+FAIRFIELD,Fairfield,Cumberland,50154,CUMBERLAND,605.0,Cumberland County
+FAIRFIELD,Fairfield,Cumberland,50154,CUMBERLAND,707.0,Essex County
+FAIRVIEW,Fairview,Bergen,53846,BERGEN,218.0,Bergen County
+FANWOOD,Fanwood,Union,111905,UNION,2005.0,Union County
+FAR HILLS,Far Hills,Somerset,103333,SOMERSET,1807.0,Somerset County
+FARMINGDALE,Farmingdale,Monmouth,61101,MONMOUTH,1315.0,Monmouth County
+FIELDSBORO,Fieldsboro,Burlington,74375,BURLINGTON,314.0,Burlington County
+FLEMINGTON,Flemington,Hunterdon,50333,HUNTERDON,1009.0,Hunterdon County
+FLORENCE,Florence,Burlington,78709,BURLINGTON,315.0,Burlington County
+FLORHAM PARK,Florham Park,Morris,103916,MORRIS,1411.0,Morris County
+FOLSOM,Folsom,Atlantic,66250,ATLANTIC,110.0,Atlantic County
+FORT LEE,Fort Lee,Bergen,70415,BERGEN,219.0,Bergen County
+FRANKFORD,Frankford,Sussex,89891,SUSSEX,1905.0,Sussex County
+FRANKLIN,Franklin,Sussex,57599,SUSSEX,805.0,Gloucester County
+FRANKLIN,Franklin,Sussex,57599,SUSSEX,1010.0,Hunterdon County
+FRANKLIN,Franklin,Sussex,57599,SUSSEX,1808.0,Somerset County
+FRANKLIN,Franklin,Sussex,57599,SUSSEX,1906.0,Sussex County
+FRANKLIN,Franklin,Sussex,57599,SUSSEX,2105.0,Warren County
+FRANKLIN LAKES,Franklin Lakes,Bergen,156146,BERGEN,220.0,Bergen County
+FRANKLIN TOWNSHIP,Franklin Township,Hunterdon,96591,HUNTERDON,,
+FRANKLIN TOWNSHIP,Franklin Township,Somerset,90949,SOMERSET,,
+FRANKLIN TOWNSHIP,Franklin Township,Warren,89420,WARREN,,
+FRANKLIN TOWNSHIP,Franklin Township,Gloucester,77739,GLOUCESTER,,
+FREDON,Fredon,Sussex,100368,SUSSEX,1907.0,Sussex County
+FREEHOLD BOROUGH,Freehold Borough,Monmouth,54595,MONMOUTH,,
+FREEHOLD TOWNSHIP,Freehold Township,Monmouth,100759,MONMOUTH,,
+FRELINGHUYSEN,Frelinghuysen,Warren,100625,WARREN,2106.0,Warren County
+FRENCHTOWN,Frenchtown,Hunterdon,77396,HUNTERDON,1011.0,Hunterdon County
+GALLOWAY,Galloway,Atlantic,61530,ATLANTIC,111.0,Atlantic County
+GARFIELD,Garfield,Bergen,45469,BERGEN,221.0,Bergen County
+GARWOOD,Garwood,Union,73924,UNION,2006.0,Union County
+GIBBSBORO,Gibbsboro,Camden,82944,CAMDEN,413.0,Camden County
+GLASSBORO,Glassboro,Gloucester,64246,GLOUCESTER,806.0,Gloucester County
+GLEN GARDNER,Glen Gardner,Hunterdon,61917,HUNTERDON,1012.0,Hunterdon County
+GLEN RIDGE,Glen Ridge,Essex,170433,ESSEX,708.0,Essex County
+GLEN ROCK,Glen Rock,Bergen,155221,BERGEN,222.0,Bergen County
+GLOUCESTER,Gloucester,Camden,71963,CAMDEN,414.0,Camden County
+GLOUCESTER,Gloucester,Camden,71963,CAMDEN,415.0,Camden County
+GLOUCESTER CITY,Gloucester City,Camden,50615,CAMDEN,,
+GREEN BROOK,Green Brook,Somerset,130053,SOMERSET,1809.0,Somerset County
+GREEN TOWNSHIP,Green Township,Sussex,119286,SUSSEX,,
+GREENWICH TOWNSHIP,Greenwich Township,Warren,111094,WARREN,,
+GREENWICH TOWNSHIP,Greenwich Township,Cumberland,66667,CUMBERLAND,,
+GREENWICH TOWNSHIP,Greenwich Township,Gloucester,64652,GLOUCESTER,,
+GUTTENBERG,Guttenberg,Hudson,56837,HUDSON,903.0,Hudson County
+HACKENSACK,Hackensack,Bergen,55289,BERGEN,223.0,Bergen County
+HACKETTSTOWN,Hackettstown,Warren,64464,WARREN,2108.0,Warren County
+HADDON,Haddon,Camden,82621,CAMDEN,416.0,Camden County
+HADDON HEIGHTS,Haddon Heights,Camden,88162,CAMDEN,418.0,Camden County
+HADDONFIELD,Haddonfield,Camden,128440,CAMDEN,417.0,Camden County
+HAINESPORT,Hainesport,Burlington,90331,BURLINGTON,316.0,Burlington County
+HALEDON,Haledon,Passaic,64024,PASSAIC,1603.0,Passaic County
+HAMBURG,Hamburg,Sussex,75179,SUSSEX,1909.0,Sussex County
+HAMILTON TOWNSHIP,Hamilton Township,Mercer,70996,MERCER,,
+HAMILTON TOWNSHIP,Hamilton Township,Atlantic,60838,ATLANTIC,,
+HAMMONTON,Hammonton,Atlantic,62798,ATLANTIC,113.0,Atlantic County
+HAMPTON,Hampton,Sussex,76127,SUSSEX,1013.0,Hunterdon County
+HAMPTON,Hampton,Sussex,76127,SUSSEX,1910.0,Sussex County
+HAMPTON,Hampton,Hunterdon,72045,HUNTERDON,1013.0,Hunterdon County
+HAMPTON,Hampton,Hunterdon,72045,HUNTERDON,1910.0,Sussex County
+HANOVER TOWNSHIP,Hanover Township,Morris,113816,MORRIS,,
+HARDING TOWNSHIP,Harding Township,Morris,171331,MORRIS,,
+HARDWICK,Hardwick,Warren,105556,WARREN,2109.0,Warren County
+HARDYSTON,Hardyston,Sussex,94665,SUSSEX,1911.0,Sussex County
+HARMONY,Harmony,Warren,81146,WARREN,2110.0,Warren County
+HARRINGTON PARK,Harrington Park,Bergen,128088,BERGEN,224.0,Bergen County
+HARRISON,Harrison,Gloucester,127975,GLOUCESTER,808.0,Gloucester County
+HARRISON,Harrison,Gloucester,127975,GLOUCESTER,904.0,Hudson County
+HARRISON,Harrison,Hudson,56713,HUDSON,808.0,Gloucester County
+HARRISON,Harrison,Hudson,56713,HUDSON,904.0,Hudson County
+HARVEY CEDARS,Harvey Cedars,Ocean,69167,OCEAN,1510.0,Ocean County
+HASBROUCK HEIGHTS,Hasbrouck Heights,Bergen,81460,BERGEN,,
+HAWORTH,Haworth,Bergen,160526,BERGEN,226.0,Bergen County
+HAWTHORNE,Hawthorne,Passaic,82532,PASSAIC,1604.0,Passaic County
+HAZLET,Hazlet,Monmouth,84871,MONMOUTH,1318.0,Monmouth County
+HELMETTA,Helmetta,Middlesex,74554,MIDDLESEX,1206.0,Middlesex County
+HI-NELLA,Hi-Nella,Camden,47589,CAMDEN,,
+HIGH BRIDGE,High Bridge,Hunterdon,81250,HUNTERDON,1014.0,Hunterdon County
+HIGHLAND PARK,Highland Park,Middlesex,68837,MIDDLESEX,1207.0,Middlesex County
+HIGHLANDS,Highlands,Monmouth,62770,MONMOUTH,1319.0,Monmouth County
+HIGHTSTOWN,Hightstown,Mercer,71174,MERCER,1104.0,Mercer County
+HILLSBOROUGH,Hillsborough,Somerset,112788,SOMERSET,1810.0,Somerset County
+HILLSDALE,Hillsdale,Bergen,108224,BERGEN,227.0,Bergen County
+HILLSIDE,Hillside,Union,59939,UNION,2007.0,Union County
+HO-HO-KUS,Ho-Ho-Kus,Bergen,162386,BERGEN,,
+HOBOKEN,Hoboken,Hudson,114381,HUDSON,905.0,Hudson County
+HOLLAND,Holland,Hunterdon,88125,HUNTERDON,1015.0,Hunterdon County
+HOLMDEL,Holmdel,Monmouth,136525,MONMOUTH,1320.0,Monmouth County
+HOPATCONG,Hopatcong,Sussex,76875,SUSSEX,1912.0,Sussex County
+HOPE TOWNSHIP,Hope Township,Warren,89792,WARREN,,
+HOPEWELL,Hopewell,Mercer,141003,MERCER,607.0,Cumberland County
+HOPEWELL,Hopewell,Mercer,141003,MERCER,1105.0,Mercer County
+HOPEWELL,Hopewell,Mercer,141003,MERCER,1106.0,Mercer County
+HOPEWELL,Hopewell,Mercer,101316,MERCER,607.0,Cumberland County
+HOPEWELL,Hopewell,Mercer,101316,MERCER,1105.0,Mercer County
+HOPEWELL,Hopewell,Mercer,101316,MERCER,1106.0,Mercer County
+HOPEWELL TOWNSHIP,Hopewell Township,Cumberland,66326,CUMBERLAND,,
+HOWELL,Howell,Monmouth,93733,MONMOUTH,1321.0,Monmouth County
+INDEPENDENCE,Independence,Warren,79301,WARREN,2112.0,Warren County
+INTERLAKEN,Interlaken,Monmouth,135938,MONMOUTH,1322.0,Monmouth County
+IRVINGTON,Irvington,Essex,36782,ESSEX,709.0,Essex County
+ISLAND HEIGHTS,Island Heights,Ocean,78147,OCEAN,1511.0,Ocean County
+JACKSON,Jackson,Ocean,84871,OCEAN,1512.0,Ocean County
+JAMESBURG,Jamesburg,Middlesex,70787,MIDDLESEX,1208.0,Middlesex County
+JEFFERSON,Jefferson,Morris,94662,MORRIS,1414.0,Morris County
+JERSEY CITY,Jersey City,Hudson,59537,HUDSON,906.0,Hudson County
+KEANSBURG,Keansburg,Monmouth,47686,MONMOUTH,1323.0,Monmouth County
+KEARNY,Kearny,Hudson,60015,HUDSON,907.0,Hudson County
+KENILWORTH,Kenilworth,Union,97279,UNION,2008.0,Union County
+KEYPORT,Keyport,Monmouth,54522,MONMOUTH,1324.0,Monmouth County
+KINGWOOD,Kingwood,Hunterdon,113306,HUNTERDON,1016.0,Hunterdon County
+KINNELON,Kinnelon,Morris,140265,MORRIS,1415.0,Morris County
+KNOWLTON,Knowlton,Warren,88259,WARREN,2113.0,Warren County
+LACEY,Lacey,Ocean,71714,OCEAN,1513.0,Ocean County
+LAFAYETTE,Lafayette,Sussex,94712,SUSSEX,1913.0,Sussex County
+LAKE COMO,Lake Como,Monmouth,62663,MONMOUTH,1346.0,Monmouth County
+LAKEHURST,Lakehurst,Ocean,66078,OCEAN,1514.0,Ocean County
+LAKEWOOD,Lakewood,Ocean,40983,OCEAN,1515.0,Ocean County
+LAMBERTVILLE,Lambertville,Hunterdon,79444,HUNTERDON,1017.0,Hunterdon County
+LAUREL SPRINGS,Laurel Springs,Camden,81250,CAMDEN,420.0,Camden County
+LAVALLETTE,Lavallette,Ocean,61989,OCEAN,1516.0,Ocean County
+LAWNSIDE,Lawnside,Camden,59279,CAMDEN,421.0,Camden County
+LAWRENCE TOWNSHIP,Lawrence township,Mercer,86301,MERCER,,
+LAWRENCE TOWNSHIP,Lawrence Township,Cumberland,65917,CUMBERLAND,,
+LEBANON,Lebanon,Hunterdon,106156,HUNTERDON,1018.0,Hunterdon County
+LEBANON,Lebanon,Hunterdon,106156,HUNTERDON,1019.0,Hunterdon County
+LEBANON,Lebanon,Hunterdon,86620,HUNTERDON,1018.0,Hunterdon County
+LEBANON,Lebanon,Hunterdon,86620,HUNTERDON,1019.0,Hunterdon County
+LEONIA,Leonia,Bergen,86107,BERGEN,229.0,Bergen County
+LIBERTY,Liberty,Warren,93833,WARREN,2114.0,Warren County
+LINCOLN PARK,Lincoln Park,Morris,81956,MORRIS,1416.0,Morris County
+LINDEN,Linden,Union,63250,UNION,2009.0,Union County
+LINDENWOLD,Lindenwold,Camden,38906,CAMDEN,422.0,Camden County
+LINWOOD,Linwood,Atlantic,82419,ATLANTIC,114.0,Atlantic County
+LITTLE EGG HARBOR,Little Egg Harbor,Ocean,60014,OCEAN,1517.0,Ocean County
+LITTLE FALLS,Little Falls,Passaic,73256,PASSAIC,1605.0,Passaic County
+LITTLE FERRY,Little Ferry,Bergen,67357,BERGEN,230.0,Bergen County
+LITTLE SILVER,Little Silver,Monmouth,136818,MONMOUTH,1325.0,Monmouth County
+LIVINGSTON,Livingston,Essex,143203,ESSEX,710.0,Essex County
+LOCH ARBOUR,Loch Arbour,Monmouth,112500,MONMOUTH,1326.0,Monmouth County
+LODI,Lodi,Bergen,50774,BERGEN,231.0,Bergen County
+LOGAN,Logan,Gloucester,87200,GLOUCESTER,809.0,Gloucester County
+LONG BEACH TOWNSHIP,Long Beach Township,Ocean,80096,OCEAN,,
+LONG BRANCH,Long Branch,Monmouth,48327,MONMOUTH,1327.0,Monmouth County
+LONG HILL,Long Hill,Morris,111500,MORRIS,1430.0,Morris County
+LONGPORT,Longport,Atlantic,86484,ATLANTIC,115.0,Atlantic County
+LOPATCONG,Lopatcong,Warren,73734,WARREN,2115.0,Warren County
+LOWER ALLOWAYS CREEK,Lower Alloways Creek,Salem,72250,SALEM,,
+LOWER TOWNSHIP,Lower Township,Cape May,54455,CAPE MAY,,
+LUMBERTON,Lumberton,Burlington,84190,BURLINGTON,317.0,Burlington County
+LYNDHURST,Lyndhurst,Bergen,70344,BERGEN,232.0,Bergen County
+MADISON,Madison,Morris,110040,MORRIS,1417.0,Morris County
+MAHWAH,Mahwah,Bergen,107336,BERGEN,233.0,Bergen County
+MANALAPAN,Manalapan,Monmouth,107569,MONMOUTH,1328.0,Monmouth County
+MANASQUAN,Manasquan,Monmouth,93200,MONMOUTH,1329.0,Monmouth County
+MANCHESTER,Manchester,Ocean,40154,OCEAN,1519.0,Ocean County
+MANNINGTON,Mannington,Salem,72917,SALEM,1706.0,Salem County
+MANSFIELD,Mansfield,Burlington,92594,BURLINGTON,318.0,Burlington County
+MANSFIELD,Mansfield,Burlington,92594,BURLINGTON,2116.0,Warren County
+MANSFIELD TOWNSHIP,Mansfield Township,Warren,59850,WARREN,,
+MANTOLOKING,Mantoloking,Ocean,126250,OCEAN,1520.0,Ocean County
+MANTUA,Mantua,Gloucester,82673,GLOUCESTER,810.0,Gloucester County
+MANVILLE,Manville,Somerset,64514,SOMERSET,1811.0,Somerset County
+MAPLE SHADE,Maple Shade,Burlington,57977,BURLINGTON,319.0,Burlington County
+MAPLEWOOD,Maplewood,Essex,118242,ESSEX,711.0,Essex County
+MARGATE,Margate,Atlantic,67138,ATLANTIC,,
+MARLBORO,Marlboro,Monmouth,137805,MONMOUTH,1330.0,Monmouth County
+MATAWAN,Matawan,Monmouth,81420,MONMOUTH,1331.0,Monmouth County
+MAURICE RIVER,Maurice River,Cumberland,63333,CUMBERLAND,609.0,Cumberland County
+MAYWOOD,Maywood,Bergen,81339,BERGEN,234.0,Bergen County
+MEDFORD,Medford,Burlington,109015,BURLINGTON,320.0,Burlington County
+MEDFORD LAKES,Medford Lakes,Burlington,100024,BURLINGTON,321.0,Burlington County
+MENDHAM BOROUGH,Mendham Borough,Morris,129853,MORRIS,,
+MENDHAM TOWNSHIP,Mendham Township,Morris,170160,MORRIS,,
+MERCHANTVILLE,Merchantville,Camden,69833,CAMDEN,424.0,Camden County
+METUCHEN,Metuchen,Middlesex,112971,MIDDLESEX,1209.0,Middlesex County
+MIDDLE TOWNSHIP,Middle Township,Cape May,62887,CAPE MAY,,
+MIDDLESEX BORO,Middlesex Boro,Middlesex,79327,MIDDLESEX,,
+MIDDLETOWN,Middletown,Monmouth,102474,MONMOUTH,1332.0,Monmouth County
+MIDLAND PARK,Midland Park,Bergen,89130,BERGEN,235.0,Bergen County
+MILFORD,Milford,Hunterdon,78681,HUNTERDON,1020.0,Hunterdon County
+MILLBURN,Millburn,Essex,184783,ESSEX,712.0,Essex County
+MILLSTONE,Millstone,Monmouth,130109,MONMOUTH,1333.0,Monmouth County
+MILLSTONE,Millstone,Monmouth,130109,MONMOUTH,1812.0,Somerset County
+MILLSTONE,Millstone,Somerset,103000,SOMERSET,1333.0,Monmouth County
+MILLSTONE,Millstone,Somerset,103000,SOMERSET,1812.0,Somerset County
+MILLTOWN,Milltown,Middlesex,101685,MIDDLESEX,1211.0,Middlesex County
+MILLVILLE,Millville,Cumberland,49133,CUMBERLAND,610.0,Cumberland County
+MINE HILL,Mine Hill,Morris,95000,MORRIS,1420.0,Morris County
+MONMOUTH BEACH,Monmouth Beach,Monmouth,103287,MONMOUTH,1334.0,Monmouth County
+MONROE,Monroe,Gloucester,74212,GLOUCESTER,811.0,Gloucester County
+MONROE,Monroe,Gloucester,74212,GLOUCESTER,1212.0,Middlesex County
+MONROE,Monroe,Middlesex,70357,MIDDLESEX,811.0,Gloucester County
+MONROE,Monroe,Middlesex,70357,MIDDLESEX,1212.0,Middlesex County
+MONTAGUE TOWNSHIP,Montague Township,Sussex,57150,SUSSEX,,
+MONTCLAIR,Montclair,Essex,99105,ESSEX,713.0,Essex County
+MONTGOMERY TOWNSHIP,Montgomery Township,Somerset,155334,SOMERSET,,
+MONTVALE,Montvale,Bergen,110635,BERGEN,236.0,Bergen County
+MONTVILLE,Montville,Morris,122260,MORRIS,1421.0,Morris County
+MOONACHIE,Moonachie,Bergen,55179,BERGEN,237.0,Bergen County
+MOORESTOWN,Moorestown,Burlington,121637,BURLINGTON,322.0,Burlington County
+MORRIS PLAINS,Morris Plains,Morris,110817,MORRIS,1423.0,Morris County
+MORRIS TOWNSHIP,Morris Township,Morris,127805,MORRIS,,
+MORRISTOWN,Morristown,Morris,77407,MORRIS,1424.0,Morris County
+MOUNT ARLINGTON,Mount Arlington,Morris,84912,MORRIS,1426.0,Morris County
+MOUNT EPHRAIM,Mount Ephraim,Camden,61715,CAMDEN,425.0,Camden County
+MOUNT HOLLY,Mount Holly,Burlington,58884,BURLINGTON,,
+MOUNT LAUREL,Mount Laurel,Burlington,87724,BURLINGTON,,
+MOUNT OLIVE,Mount Olive,Morris,88333,MORRIS,1427.0,Morris County
+MOUNTAIN LAKES,Mountain Lakes,Morris,164432,MORRIS,1425.0,Morris County
+MOUNTAINSIDE,Mountainside,Union,133571,UNION,2010.0,Union County
+MULLICA TOWNSHIP,Mullica Township,Atlantic,67269,ATLANTIC,,
+NATIONAL PARK,National Park,Gloucester,57356,GLOUCESTER,812.0,Gloucester County
+NEPTUNE CITY,Neptune City,Monmouth,55728,MONMOUTH,1336.0,Monmouth County
+NEPTUNE TOWNSHIP,Neptune Township,Monmouth,62992,MONMOUTH,,
+NETCONG,Netcong,Morris,54659,MORRIS,1428.0,Morris County
+NEW BRUNSWICK,New Brunswick,Middlesex,38435,MIDDLESEX,1213.0,Middlesex County
+NEW HANOVER,New Hanover,Burlington,81500,BURLINGTON,325.0,Burlington County
+NEW MILFORD,New Milford,Bergen,78077,BERGEN,238.0,Bergen County
+NEW PROVIDENCE,New Providence,Union,130057,UNION,2011.0,Union County
+NEWARK,Newark,Essex,33139,ESSEX,714.0,Essex County
+NEWFIELD,Newfield,Gloucester,70556,GLOUCESTER,813.0,Gloucester County
+NEWTON,Newton,Sussex,48409,SUSSEX,1915.0,Sussex County
+NORTH ARLINGTON,North Arlington,Bergen,66484,BERGEN,239.0,Bergen County
+NORTH BERGEN,North Bergen,Hudson,55222,HUDSON,908.0,Hudson County
+NORTH BRUNSWICK,North Brunswick,Middlesex,80358,MIDDLESEX,1214.0,Middlesex County
+NORTH CALDWELL,North Caldwell,Essex,200152,ESSEX,715.0,Essex County
+NORTH HALEDON,North Haledon,Passaic,96161,PASSAIC,1606.0,Passaic County
+NORTH HANOVER,North Hanover,Burlington,54280,BURLINGTON,,
+NORTH PLAINFIELD,North Plainfield,Somerset,66272,SOMERSET,1814.0,Somerset County
+NORTH WILDWOOD,North Wildwood,Cape May,43941,CAPE MAY,,
+NORTHFIELD,Northfield,Atlantic,68854,ATLANTIC,118.0,Atlantic County
+NORTHVALE,Northvale,Bergen,84881,BERGEN,240.0,Bergen County
+NORWOOD,Norwood,Bergen,92203,BERGEN,241.0,Bergen County
+NUTLEY,Nutley,Essex,84974,ESSEX,716.0,Essex County
+OAKLAND,Oakland,Bergen,109258,BERGEN,242.0,Bergen County
+OAKLYN,Oaklyn,Camden,67969,CAMDEN,426.0,Camden County
+OCEAN CITY,Ocean City,Cape May,57813,CAPE MAY,,
+OCEAN GATE,Ocean Gate,Ocean,66667,OCEAN,1522.0,Ocean County
+OCEAN TOWNSHIP,Ocean Township,Monmouth,80323,MONMOUTH,,
+OCEAN TOWNSHIP,Ocean Township,Ocean,67997,OCEAN,,
+OCEANPORT,Oceanport,Monmouth,90238,MONMOUTH,1338.0,Monmouth County
+OGDENSBURG,Ogdensburg,Sussex,79271,SUSSEX,1916.0,Sussex County
+OLD BRIDGE,Old Bridge,Middlesex,83750,MIDDLESEX,1215.0,Middlesex County
+OLD TAPPAN,Old Tappan,Bergen,116285,BERGEN,243.0,Bergen County
+OLDMANS,Oldmans,Salem,72045,SALEM,1707.0,Salem County
+ORADELL,Oradell,Bergen,141550,BERGEN,244.0,Bergen County
+OXFORD,Oxford,Warren,72311,WARREN,2117.0,Warren County
+PALISADES PARK,Palisades Park,Bergen,64726,BERGEN,245.0,Bergen County
+PALMYRA,Palmyra,Burlington,64766,BURLINGTON,327.0,Burlington County
+PARAMUS,Paramus,Bergen,100272,BERGEN,246.0,Bergen County
+PARK RIDGE,Park Ridge,Bergen,104047,BERGEN,247.0,Bergen County
+PARSIPPANY-TROY HILLS,Parsippany-Troy Hills,Morris,89385,MORRIS,,
+PASSAIC,Passaic,Passaic,31832,PASSAIC,1607.0,Passaic County
+PATERSON,Paterson,Passaic,32915,PASSAIC,1608.0,Passaic County
+PAULSBORO,Paulsboro,Gloucester,40925,GLOUCESTER,814.0,Gloucester County
+PEAPACK AND GLADSTONE,Peapack and Gladstone,Somerset,132250,SOMERSET,,
+PEMBERTON,Pemberton,Burlington,67098,BURLINGTON,328.0,Burlington County
+PEMBERTON,Pemberton,Burlington,67098,BURLINGTON,329.0,Burlington County
+PEMBERTON,Pemberton,Burlington,61039,BURLINGTON,328.0,Burlington County
+PEMBERTON,Pemberton,Burlington,61039,BURLINGTON,329.0,Burlington County
+PENNINGTON,Pennington,Mercer,115536,MERCER,1108.0,Mercer County
+PENNS GROVE,Penns Grove,Salem,31406,SALEM,1708.0,Salem County
+PENNSAUKEN,Pennsauken,Camden,63279,CAMDEN,427.0,Camden County
+PENNSVILLE,Pennsville,Salem,58939,SALEM,1709.0,Salem County
+PEQUANNOCK,Pequannock,Morris,87464,MORRIS,1431.0,Morris County
+PERTH AMBOY,Perth Amboy,Middlesex,44024,MIDDLESEX,1216.0,Middlesex County
+PHILLIPSBURG,Phillipsburg,Warren,44537,WARREN,2119.0,Warren County
+PILESGROVE,Pilesgrove,Salem,86523,SALEM,1710.0,Salem County
+PINE BEACH,Pine Beach,Ocean,89750,OCEAN,1523.0,Ocean County
+PINE HILL,Pine Hill,Camden,50184,CAMDEN,428.0,Camden County
+PISCATAWAY,Piscataway,Middlesex,88494,MIDDLESEX,1217.0,Middlesex County
+PITMAN,Pitman,Gloucester,73616,GLOUCESTER,815.0,Gloucester County
+PITTSGROVE,Pittsgrove,Salem,68785,SALEM,1711.0,Salem County
+PLAINFIELD,Plainfield,Union,54500,UNION,2012.0,Union County
+PLAINSBORO,Plainsboro,Middlesex,96480,MIDDLESEX,1218.0,Middlesex County
+PLEASANTVILLE,Pleasantville,Atlantic,41633,ATLANTIC,119.0,Atlantic County
+PLUMSTED TOWNSHIP,Plumsted Township,Ocean,86694,OCEAN,,
+POHATCONG,Pohatcong,Warren,66556,WARREN,2120.0,Warren County
+POINT PLEASANT BEACH,Point Pleasant Beach,Ocean,76174,OCEAN,,
+POINT PLEASANT BORO,Point Pleasant Boro,Ocean,89779,OCEAN,,
+POMPTON LAKES,Pompton Lakes,Passaic,87004,PASSAIC,1609.0,Passaic County
+PORT REPUBLIC,Port Republic,Atlantic,84688,ATLANTIC,120.0,Atlantic County
+PRINCETON,Princeton,Mercer,114645,MERCER,,
+PROSPECT PARK,Prospect Park,Passaic,53889,PASSAIC,1610.0,Passaic County
+QUINTON TOWNSHIP,Quinton Township,Salem,64722,SALEM,,
+RAHWAY,Rahway,Union,60374,UNION,2013.0,Union County
+RAMSEY,Ramsey,Bergen,135387,BERGEN,248.0,Bergen County
+RANDOLPH,Randolph,Morris,120392,MORRIS,1432.0,Morris County
+RARITAN,Raritan,Hunterdon,114569,HUNTERDON,1021.0,Hunterdon County
+RARITAN,Raritan,Hunterdon,114569,HUNTERDON,1816.0,Somerset County
+RARITAN,Raritan,Somerset,73827,SOMERSET,1021.0,Hunterdon County
+RARITAN,Raritan,Somerset,73827,SOMERSET,1816.0,Somerset County
+READINGTON,Readington,Hunterdon,118125,HUNTERDON,1022.0,Hunterdon County
+RED BANK,Red Bank,Monmouth,62028,MONMOUTH,1339.0,Monmouth County
+RIDGEFIELD,Ridgefield,Bergen,68843,BERGEN,249.0,Bergen County
+RIDGEFIELD PARK,Ridgefield Park,Bergen,63841,BERGEN,250.0,Bergen County
+RIDGEWOOD,Ridgewood,Bergen,147823,BERGEN,251.0,Bergen County
+RINGWOOD,Ringwood,Passaic,108638,PASSAIC,1611.0,Passaic County
+RIVER EDGE,River Edge,Bergen,103607,BERGEN,,
+RIVER VALE,River Vale,Bergen,132265,BERGEN,,
+RIVERDALE,Riverdale,Morris,87274,MORRIS,1433.0,Morris County
+RIVERSIDE,Riverside,Burlington,54492,BURLINGTON,330.0,Burlington County
+RIVERTON,Riverton,Burlington,92125,BURLINGTON,331.0,Burlington County
+ROBBINSVILLE,Robbinsville,Mercer,116686,MERCER,1112.0,Mercer County
+ROCHELLE PARK,Rochelle Park,Bergen,73512,BERGEN,254.0,Bergen County
+ROCKAWAY,Rockaway,Morris,100303,MORRIS,1434.0,Morris County
+ROCKAWAY,Rockaway,Morris,100303,MORRIS,1435.0,Morris County
+ROCKAWAY BOROUGH,Rockaway Borough,Morris,78604,MORRIS,,
+ROCKLEIGH,Rockleigh,Bergen,133125,BERGEN,255.0,Bergen County
+ROCKY HILL,Rocky Hill,Somerset,104219,SOMERSET,1817.0,Somerset County
+ROOSEVELT,Roosevelt,Monmouth,72321,MONMOUTH,1340.0,Monmouth County
+ROSELAND,Roseland,Essex,101786,ESSEX,718.0,Essex County
+ROSELLE,Roselle,Union,43397,UNION,2014.0,Union County
+ROSELLE PARK,Roselle Park,Union,63021,UNION,2015.0,Union County
+ROXBURY,Roxbury,Morris,105105,MORRIS,1436.0,Morris County
+RUMSON,Rumson,Monmouth,136538,MONMOUTH,1341.0,Monmouth County
+RUNNEMEDE,Runnemede,Camden,61885,CAMDEN,430.0,Camden County
+RUTHERFORD,Rutherford,Bergen,84778,BERGEN,256.0,Bergen County
+SADDLE BROOK,Saddle Brook,Bergen,80543,BERGEN,257.0,Bergen County
+SADDLE RIVER,Saddle River,Bergen,121026,BERGEN,258.0,Bergen County
+SALEM,Salem,Salem,26320,SALEM,1713.0,Salem County
+SANDYSTON,Sandyston,Sussex,74875,SUSSEX,1917.0,Sussex County
+SAYREVILLE,Sayreville,Middlesex,80386,MIDDLESEX,1219.0,Middlesex County
+SCOTCH PLAINS,Scotch Plains,Union,110908,UNION,2016.0,Union County
+SEA BRIGHT,Sea Bright,Monmouth,83244,MONMOUTH,1342.0,Monmouth County
+SEA GIRT,Sea Girt,Monmouth,108333,MONMOUTH,1343.0,Monmouth County
+SEA ISLE CITY,Sea Isle City,Cape May,66683,CAPE MAY,,
+SEASIDE HEIGHTS,Seaside Heights,Ocean,33958,OCEAN,1527.0,Ocean County
+SEASIDE PARK,Seaside Park,Ocean,72981,OCEAN,1528.0,Ocean County
+SECAUCUS,Secaucus,Hudson,86061,HUDSON,909.0,Hudson County
+SHAMONG,Shamong,Burlington,94777,BURLINGTON,332.0,Burlington County
+SHILOH,Shiloh,Cumberland,67292,CUMBERLAND,611.0,Cumberland County
+SHIP BOTTOM,Ship Bottom,Ocean,63977,OCEAN,1529.0,Ocean County
+SHREWSBURY,Shrewsbury,Monmouth,116087,MONMOUTH,1344.0,Monmouth County
+SHREWSBURY,Shrewsbury,Monmouth,116087,MONMOUTH,1345.0,Monmouth County
+SHREWSBURY,Shrewsbury,Monmouth,50909,MONMOUTH,1344.0,Monmouth County
+SHREWSBURY,Shrewsbury,Monmouth,50909,MONMOUTH,1345.0,Monmouth County
+SOMERDALE,Somerdale,Camden,51633,CAMDEN,431.0,Camden County
+SOMERS POINT,Somers Point,Atlantic,50450,ATLANTIC,121.0,Atlantic County
+SOMERVILLE,Somerville,Somerset,70643,SOMERSET,1818.0,Somerset County
+SOUTH AMBOY,South Amboy,Middlesex,64293,MIDDLESEX,1220.0,Middlesex County
+SOUTH BOUND BROOK,South Bound Brook,Somerset,72180,SOMERSET,,
+SOUTH BRUNSWICK,South Brunswick,Middlesex,109551,MIDDLESEX,1221.0,Middlesex County
+SOUTH HACKENSACK,South Hackensack,Bergen,63693,BERGEN,,
+SOUTH HARRISON,South Harrison,Gloucester,116375,GLOUCESTER,,
+SOUTH ORANGE,South Orange,Essex,116727,ESSEX,,
+SOUTH PLAINFIELD,South Plainfield,Middlesex,86404,MIDDLESEX,1222.0,Middlesex County
+SOUTH RIVER,South River,Middlesex,62972,MIDDLESEX,1223.0,Middlesex County
+SOUTH TOMS RIVER,South Toms River,Ocean,66250,OCEAN,1530.0,Ocean County
+SOUTHAMPTON,Southampton,Burlington,55432,BURLINGTON,333.0,Burlington County
+SPARTA,Sparta,Sussex,131182,SUSSEX,1918.0,Sussex County
+SPOTSWOOD,Spotswood,Middlesex,74696,MIDDLESEX,1224.0,Middlesex County
+SPRING LAKE,Spring Lake,Monmouth,101500,MONMOUTH,1347.0,Monmouth County
+SPRING LAKE HEIGHTS,Spring Lake Heights,Monmouth,72353,MONMOUTH,1348.0,Monmouth County
+SPRINGFIELD,Springfield,Burlington,105852,BURLINGTON,334.0,Burlington County
+SPRINGFIELD,Springfield,Burlington,105852,BURLINGTON,2017.0,Union County
+SPRINGFIELD,Springfield,Union,99211,UNION,334.0,Burlington County
+SPRINGFIELD,Springfield,Union,99211,UNION,2017.0,Union County
+STAFFORD TOWNSHIP,Stafford Township,Ocean,69268,OCEAN,,
+STANHOPE,Stanhope,Sussex,81311,SUSSEX,1919.0,Sussex County
+STILLWATER,Stillwater,Sussex,79392,SUSSEX,1920.0,Sussex County
+STOCKTON,Stockton,Hunterdon,90938,HUNTERDON,1023.0,Hunterdon County
+STONE HARBOR,Stone Harbor,Cape May,81111,CAPE MAY,,
+STOW CREEK,Stow Creek,Cumberland,72159,CUMBERLAND,612.0,Cumberland County
+STRATFORD,Stratford,Camden,67556,CAMDEN,432.0,Camden County
+SUMMIT,Summit,Union,129583,UNION,2018.0,Union County
+SURF CITY,Surf City,Ocean,66597,OCEAN,1532.0,Ocean County
+SUSSEX,Sussex,Sussex,37241,SUSSEX,1921.0,Sussex County
+SWEDESBORO,Swedesboro,Gloucester,75595,GLOUCESTER,817.0,Gloucester County
+TABERNACLE,Tabernacle,Burlington,98375,BURLINGTON,335.0,Burlington County
+TEANECK,Teaneck,Bergen,96760,BERGEN,260.0,Bergen County
+TENAFLY,Tenafly,Bergen,147196,BERGEN,261.0,Bergen County
+TETERBORO,Teterboro,Bergen,33068,BERGEN,262.0,Bergen County
+TEWKSBURY,Tewksbury,Hunterdon,165552,HUNTERDON,1024.0,Hunterdon County
+TINTON FALLS,Tinton Falls,Monmouth,73891,MONMOUTH,1349.0,Monmouth County
+TOMS RIVER,Toms River,Ocean,71960,OCEAN,1508.0,Ocean County
+TOTOWA,Totowa,Passaic,88490,PASSAIC,1612.0,Passaic County
+TRENTON,Trenton,Mercer,34257,MERCER,1111.0,Mercer County
+TUCKERTON,Tuckerton,Ocean,64273,OCEAN,1533.0,Ocean County
+UNION BEACH,Union Beach,Monmouth,66662,MONMOUTH,1350.0,Monmouth County
+UNION CITY,Union City,Hudson,41107,HUDSON,910.0,Hudson County
+UNION TOWNSHIP,Union Township,Hunterdon,122527,HUNTERDON,,
+UNION TOWNSHIP,Union Township,Union,75742,UNION,,
+UPPER DEERFIELD,Upper Deerfield,Cumberland,53547,CUMBERLAND,613.0,Cumberland County
+UPPER FREEHOLD,Upper Freehold,Monmouth,127753,MONMOUTH,1351.0,Monmouth County
+UPPER PITTSGROVE,Upper Pittsgrove,Salem,90042,SALEM,1714.0,Salem County
+UPPER SADDLE RIVER,Upper Saddle River,Bergen,169301,BERGEN,,
+UPPER TOWNSHIP,Upper Township,Cape May,77012,CAPE MAY,,
+VENTNOR CITY,Ventnor City,Atlantic,50978,ATLANTIC,,
+VERNON,Vernon,Sussex,87779,SUSSEX,1922.0,Sussex County
+VERONA,Verona,Essex,101528,ESSEX,720.0,Essex County
+VICTORY GARDENS,Victory Gardens,Morris,39811,MORRIS,1437.0,Morris County
+VINELAND,Vineland,Cumberland,49453,CUMBERLAND,614.0,Cumberland County
+VOORHEES,Voorhees,Camden,78568,CAMDEN,434.0,Camden County
+WALDWICK,Waldwick,Bergen,108182,BERGEN,264.0,Bergen County
+WALL,Wall,Monmouth,92539,MONMOUTH,1352.0,Monmouth County
+WALLINGTON,Wallington,Bergen,55547,BERGEN,265.0,Bergen County
+WALPACK,Walpack,Sussex,16667,SUSSEX,1923.0,Sussex County
+WANAQUE,Wanaque,Passaic,88125,PASSAIC,1613.0,Passaic County
+WANTAGE,Wantage,Sussex,87300,SUSSEX,1924.0,Sussex County
+WARREN,Warren,Somerset,143833,SOMERSET,1820.0,Somerset County
+WASHINGTON,Washington,Warren,88322,WARREN,266.0,Bergen County
+WASHINGTON,Washington,Warren,88322,WARREN,336.0,Burlington County
+WASHINGTON,Washington,Warren,88322,WARREN,818.0,Gloucester County
+WASHINGTON,Washington,Warren,88322,WARREN,1438.0,Morris County
+WASHINGTON,Washington,Warren,88322,WARREN,2121.0,Warren County
+WASHINGTON,Washington,Warren,88322,WARREN,2122.0,Warren County
+WASHINGTON,Washington,Warren,61625,WARREN,266.0,Bergen County
+WASHINGTON,Washington,Warren,61625,WARREN,336.0,Burlington County
+WASHINGTON,Washington,Warren,61625,WARREN,818.0,Gloucester County
+WASHINGTON,Washington,Warren,61625,WARREN,1438.0,Morris County
+WASHINGTON,Washington,Warren,61625,WARREN,2121.0,Warren County
+WASHINGTON,Washington,Warren,61625,WARREN,2122.0,Warren County
+WASHINGTON TOWNSHIP,Washington Township,Morris,124177,MORRIS,,
+WASHINGTON TOWNSHIP,Washington Township,Bergen,115571,BERGEN,,
+WASHINGTON TOWNSHIP,Washington Township,Gloucester,85892,GLOUCESTER,,
+WASHINGTON TOWNSHIP,Washington Township,Burlington,64375,BURLINGTON,,
+WATCHUNG,Watchung,Somerset,140163,SOMERSET,1821.0,Somerset County
+WATERFORD,Waterford,Camden,74250,CAMDEN,435.0,Camden County
+WAYNE,Wayne,Passaic,106357,PASSAIC,1614.0,Passaic County
+WEEHAWKEN,Weehawken,Hudson,75388,HUDSON,911.0,Hudson County
+WENONAH,Wenonah,Gloucester,104375,GLOUCESTER,819.0,Gloucester County
+WEST AMWELL,West Amwell,Hunterdon,103875,HUNTERDON,1026.0,Hunterdon County
+WEST CALDWELL,West Caldwell,Essex,99708,ESSEX,721.0,Essex County
+WEST CAPE MAY,West Cape May,Cape May,49839,CAPE MAY,,
+WEST DEPTFORD,West Deptford,Gloucester,66964,GLOUCESTER,820.0,Gloucester County
+WEST LONG BRANCH,West Long Branch,Monmouth,80585,MONMOUTH,1353.0,Monmouth County
+WEST MILFORD,West Milford,Passaic,98556,PASSAIC,1615.0,Passaic County
+WEST NEW YORK,West New York,Hudson,45370,HUDSON,912.0,Hudson County
+WEST ORANGE,West Orange,Essex,90363,ESSEX,722.0,Essex County
+WEST WILDWOOD,West Wildwood,Cape May,50795,CAPE MAY,,
+WEST WINDSOR,West Windsor,Mercer,161750,MERCER,1113.0,Mercer County
+WESTAMPTON,Westampton,Burlington,101653,BURLINGTON,337.0,Burlington County
+WESTFIELD,Westfield,Union,146734,UNION,2020.0,Union County
+WESTVILLE,Westville,Gloucester,58824,GLOUCESTER,821.0,Gloucester County
+WESTWOODD,Westwoodd,Bergen,85849,BERGEN,,
+WEYMOUTH TOWNSHIP,Weymouth Township,Atlantic,56681,ATLANTIC,,
+WHARTON,Wharton,Morris,66579,MORRIS,1439.0,Morris County
+WHITE TOWNSHIP,White Township,Warren,51524,WARREN,,
+WILDWOOD,Wildwood,Cape May,27067,CAPE MAY,,
+WILDWOOD CREST,Wildwood Crest,Cape May,65547,CAPE MAY,,
+WILLINGBORO,Willingboro,Burlington,64969,BURLINGTON,338.0,Burlington County
+WINFIELD,Winfield,Union,54167,UNION,2021.0,Union County
+WINSLOW,Winslow,Camden,72934,CAMDEN,436.0,Camden County
+WOOD-RIDGE,Wood-Ridge,Bergen,96988,BERGEN,,
+WOODBINE,Woodbine,Cape May,34906,CAPE MAY,,
+WOODBRIDGE,Woodbridge,Middlesex,79720,MIDDLESEX,1225.0,Middlesex County
+WOODBURY,Woodbury,Gloucester,51922,GLOUCESTER,822.0,Gloucester County
+WOODBURY HEIGHTS,Woodbury Heights,Gloucester,79653,GLOUCESTER,823.0,Gloucester County
+WOODCLIFF LAKE,Woodcliff Lake,Bergen,139857,BERGEN,268.0,Bergen County
+WOODLAND,Woodland,Burlington,88636,BURLINGTON,339.0,Burlington County
+WOODLAND PARK,Woodland Park,Passaic,78708,PASSAIC,1616.0,Passaic County
+WOODLYNNE,Woodlynne,Camden,40913,CAMDEN,437.0,Camden County
+WOODSTOWN,Woodstown,Salem,82738,SALEM,1715.0,Salem County
+WOOLWICH,Woolwich,Gloucester,118509,GLOUCESTER,824.0,Gloucester County
+WRIGHTSTOWN,Wrightstown,Burlington,46625,BURLINGTON,340.0,Burlington County
+WYCKOFF,Wyckoff,Bergen,131714,BERGEN,270.0,Bergen County

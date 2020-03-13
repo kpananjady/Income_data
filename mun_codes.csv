@@ -1,0 +1,566 @@
+CODE,MUNICIPALITY,COUNTY
+0101,ABSECON,Atlantic County
+0102,ATLANTIC CITY,Atlantic County
+0103,BRIGANTINE,Atlantic County
+0104,BUENA,Atlantic County
+0105,BUENA VISTA,Atlantic County
+0106,CORBIN CITY,Atlantic County
+0107,EGG HARBOR,Atlantic County
+0108,EGG HARBOR,Atlantic County
+0109,ESTELL MANOR,Atlantic County
+0110,FOLSOM,Atlantic County
+0111,GALLOWAY,Atlantic County
+0112,HAMILTON,Atlantic County
+0113,HAMMONTON,Atlantic County
+0114,LINWOOD,Atlantic County
+0115,LONGPORT,Atlantic County
+0116,MARGATE CITY,Atlantic County
+0117,MULLICA,Atlantic County
+0118,NORTHFIELD,Atlantic County
+0119,PLEASANTVILLE,Atlantic County
+0120,PORT REPUBLIC,Atlantic County
+0121,SOMERS POINT,Atlantic County
+0122,VENTNOR,Atlantic County
+0123,WEYMOUTH,Atlantic County
+0201,ALLENDALE,Bergen County
+0202,ALPINE,Bergen County
+0203,BERGENFIELD,Bergen County
+0204,BOGOTA,Bergen County
+0205,CARLSTADT,Bergen County
+0206,CLIFFSIDE PARK,Bergen County
+0207,CLOSTER,Bergen County
+0208,CRESSKILL,Bergen County
+0209,DEMAREST,Bergen County
+0210,DUMONT,Bergen County
+0211,ELMWOOD PARK,Bergen County
+0212,E RUTHERFORD,Bergen County
+0213,EDGEWATER,Bergen County
+0214,EMERSON,Bergen County
+0215,ENGLEWOOD,Bergen County
+0216,ENGLEWOOD CLIFFS,Bergen County
+0217,FAIRLAWN,Bergen County
+0218,FAIRVIEW,Bergen County
+0219,FORT LEE,Bergen County
+0220,FRANKLIN LAKES,Bergen County
+0221,GARFIELD,Bergen County
+0222,GLEN ROCK,Bergen County
+0223,HACKENSACK,Bergen County
+0224,HARRINGTON PARK,Bergen County
+0225,HASBROUCK HGHTS,Bergen County
+0226,HAWORTH,Bergen County
+0227,HILLSDALE,Bergen County
+0228,HOHOKUS,Bergen County
+0229,LEONIA,Bergen County
+0230,LITTLE FERRY,Bergen County
+0231,LODI,Bergen County
+0232,LYNDHURST,Bergen County
+0233,MAHWAH,Bergen County
+0234,MAYWOOD,Bergen County
+0235,MIDLAND PARK,Bergen County
+0236,MONTVALE,Bergen County
+0237,MOONACHIE,Bergen County
+0238,NEW MILFORD,Bergen County
+0239,NORTH ARLINGTON,Bergen County
+0240,NORTHVALE,Bergen County
+0241,NORWOOD,Bergen County
+0242,OAKLAND,Bergen County
+0243,OLD TAPPAN,Bergen County
+0244,ORADELL,Bergen County
+0245,PALISADES PARK,Bergen County
+0246,PARAMUS,Bergen County
+0247,PARK RIDGE,Bergen County
+0248,RAMSEY,Bergen County
+0249,RIDGEFIELD,Bergen County
+0250,RIDGEFIELD PARK,Bergen County
+0251,RIDGEWOOD,Bergen County
+0252,RIVEREDGE,Bergen County
+0253,RIVERVALE,Bergen County
+0254,ROCHELLE PARK,Bergen County
+0255,ROCKLEIGH,Bergen County
+0256,RUTHERFORD,Bergen County
+0257,SADDLE BROOK,Bergen County
+0258,SADDLE RIVER,Bergen County
+0259,SO HACKENSACK,Bergen County
+0260,TEANECK,Bergen County
+0261,TENAFLY,Bergen County
+0262,TETERBORO,Bergen County
+0263,UPPER SADDLE RIV,Bergen County
+0264,WALDWICK,Bergen County
+0265,WALLINGTON,Bergen County
+0266,WASHINGTON,Bergen County
+0267,WESTWOOD,Bergen County
+0268,WOODCLIFF LAKE,Bergen County
+0269,WOOD RIDGE,Bergen County
+0270,WYCKOFF,Bergen County
+0301,BASS RIVER,Burlington County
+0302,BEVERLY,Burlington County
+0303,BORDENTOWN,Burlington County
+0304,BORDENTOWN,Burlington County
+0305,BURLINGTON,Burlington County
+0306,BURLINGTON,Burlington County
+0307,CHESTERFIELD,Burlington County
+0308,CINNAMINSON,Burlington County
+0309,DELANCO,Burlington County
+0310,DELRAN,Burlington County
+0311,EASTAMPTON,Burlington County
+0312,EDGEWATER PARK,Burlington County
+0313,EVESHAM,Burlington County
+0314,FIELDSBORO,Burlington County
+0315,FLORENCE,Burlington County
+0316,HAINESPORT,Burlington County
+0317,LUMBERTON,Burlington County
+0318,MANSFIELD,Burlington County
+0319,MAPLE SHADE,Burlington County
+0320,MEDFORD,Burlington County
+0321,MEDFORD LAKES,Burlington County
+0322,MOORESTOWN,Burlington County
+0323,MT HOLLY,Burlington County
+0324,MT LAUREL,Burlington County
+0325,NEW HANOVER,Burlington County
+0326,NO HANOVER,Burlington County
+0327,PALMYRA,Burlington County
+0328,PEMBERTON,Burlington County
+0329,PEMBERTON,Burlington County
+0330,RIVERSIDE,Burlington County
+0331,RIVERTON,Burlington County
+0332,SHAMONG,Burlington County
+0333,SOUTHAMPTON,Burlington County
+0334,SPRINGFIELD,Burlington County
+0335,TABERNACLE,Burlington County
+0336,WASHINGTON,Burlington County
+0337,WESTAMPTON,Burlington County
+0338,WILLINGBORO,Burlington County
+0339,WOODLAND,Burlington County
+0340,WRIGHTSTOWN,Burlington County
+0401,AUDUBON,Camden County
+0402,AUDUBON PARK,Camden County
+0403,BARRINGTON,Camden County
+0404,BELLMAWR,Camden County
+0405,BERLIN,Camden County
+0406,BERLIN,Camden County
+0407,BROOKLAWN,Camden County
+0408,CAMDEN,Camden County
+0409,CHERRY HILL,Camden County
+0410,CHESILHURST,Camden County
+0411,CLEMENTON,Camden County
+0412,COLLINGSWOOD,Camden County
+0413,GIBBSBORO,Camden County
+0414,GLOUCESTER,Camden County
+0415,GLOUCESTER,Camden County
+0416,HADDON,Camden County
+0417,HADDONFIELD,Camden County
+0418,HADDON HEIGHTS,Camden County
+0419,HI NELLA,Camden County
+0420,LAUREL SPRINGS,Camden County
+0421,LAWNSIDE,Camden County
+0422,LINDENWOLD,Camden County
+0423,MAGNOLIA,Camden County
+0424,MERCHANTVILLE,Camden County
+0425,MOUNT EPHRAIM,Camden County
+0426,OAKLYN,Camden County
+0427,PENNSAUKEN,Camden County
+0428,PINE HILL,Camden County
+0429,PINE VALLEY,Camden County
+0430,RUNNEMEDE,Camden County
+0431,SOMERDALE,Camden County
+0432,STRATFORD,Camden County
+0433,TAVISTOCK,Camden County
+0434,VOORHEES,Camden County
+0435,WATERFORD,Camden County
+0436,WINSLOW,Camden County
+0437,WOODLYNNE,Camden County
+0501,AVALON BORO,May County
+0502,CAPE MAY CITY,May County
+0503,CAPE MAY POINT BORO,May County
+0504,DENNIS TWP,May County
+0505,LOWER TWP,May County
+0506,MIDDLE TWP,May County
+0507,NORTH WILDWOOD CITY,May County
+0508,OCEAN CITY CITY,May County
+0509,SEA ISLE CITY CITY,May County
+0510,STONE HARBOR BORO,May County
+0511,UPPER TWP,May County
+0512,WEST CAPE MAY BORO,May County
+0513,WEST WILDWOOD BORO,May County
+0514,WILDWOOD CITY,May County
+0515,WILDWOOD CREST BORO,May County
+0516,WOODBINE BORO,May County
+0601,BRIDGETON,Cumberland County
+0602,COMMERCIAL,Cumberland County
+0603,DEERFIELD,Cumberland County
+0604,DOWNE,Cumberland County
+0605,FAIRFIELD,Cumberland County
+0606,GREENWICH,Cumberland County
+0607,HOPEWELL,Cumberland County
+0608,LAWRENCE,Cumberland County
+0609,MAURICE RIVER,Cumberland County
+0610,MILLVILLE,Cumberland County
+0611,SHILOH,Cumberland County
+0612,STOW CREEK,Cumberland County
+0613,UPPER DEERFIELD,Cumberland County
+0614,VINELAND,Cumberland County
+0701,BELLEVILLE,Essex County
+0702,BLOOMFIELD,Essex County
+0703,CALDWELL BORO,Essex County
+0704,CEDAR GROVE,Essex County
+0705,EAST ORANGE,Essex County
+0706,ESSEX FELLS,Essex County
+0707,FAIRFIELD,Essex County
+0708,GLEN RIDGE,Essex County
+0709,IRVINGTON,Essex County
+0710,LIVINGSTON,Essex County
+0711,MAPLEWOOD,Essex County
+0712,MILLBURN,Essex County
+0713,MONTCLAIR,Essex County
+0714,NEWARK,Essex County
+0715,NORTH CALDWELL,Essex County
+0716,NUTLEY,Essex County
+0717,ORANGE CITY,Essex County
+0718,ROSELAND,Essex County
+0719,SOUTH ORANGE VILLAGE,Essex County
+0720,VERONA,Essex County
+0721,WEST CALDWELL,Essex County
+0722,WEST ORANGE,Essex County
+0801,CLAYTON,Gloucester County
+0802,DEPTFORD,Gloucester County
+0803,EAST GREENWICH,Gloucester County
+0804,ELK,Gloucester County
+0805,FRANKLIN,Gloucester County
+0806,GLASSBORO,Gloucester County
+0807,GREENWICH,Gloucester County
+0808,HARRISON,Gloucester County
+0809,LOGAN,Gloucester County
+0810,MANTUA,Gloucester County
+0811,MONROE,Gloucester County
+0812,NATIONAL PARK,Gloucester County
+0813,NEWFIELD,Gloucester County
+0814,PAULSBORO,Gloucester County
+0815,PITMAN,Gloucester County
+0816,SO HARRISON,Gloucester County
+0817,SWEDESBORO,Gloucester County
+0818,WASHINGTON,Gloucester County
+0819,WENONAH,Gloucester County
+0820,WEST DEPTFORD,Gloucester County
+0821,WESTVILLE,Gloucester County
+0822,WOODBURY,Gloucester County
+0823,WOODBURY HEIGHTS,Gloucester County
+0824,WOOLWICH,Gloucester County
+0901,BAYONNE,Hudson County
+0902,EAST NEWARK,Hudson County
+0903,GUTTENBERG,Hudson County
+0904,HARRISON,Hudson County
+0905,HOBOKEN,Hudson County
+0906,JERSEY CITY,Hudson County
+0907,KEARNY,Hudson County
+0908,NORTH BERGEN,Hudson County
+0909,SECAUCUS,Hudson County
+0910,UNION CITY,Hudson County
+0911,WEEHAWKEN,Hudson County
+0912,WEST NEW YORK,Hudson County
+1001,ALEXANDRIA,Hunterdon County
+1002,BETHLEHEM,Hunterdon County
+1003,BLOOMSBURY,Hunterdon County
+1004,CALIFON,Hunterdon County
+1005,CLINTON,Hunterdon County
+1006,CLINTON,Hunterdon County
+1007,DELAWARE,Hunterdon County
+1008,EAST AMWELL,Hunterdon County
+1009,FLEMINGTON,Hunterdon County
+1010,FRANKLIN,Hunterdon County
+1011,FRENCHTOWN,Hunterdon County
+1012,GLEN GARDNER,Hunterdon County
+1013,HAMPTON,Hunterdon County
+1014,HIGH BRIDGE,Hunterdon County
+1015,HOLLAND,Hunterdon County
+1016,KINGWOOD,Hunterdon County
+1017,LAMBERTVILLE,Hunterdon County
+1018,LEBANON,Hunterdon County
+1019,LEBANON,Hunterdon County
+1020,MILFORD,Hunterdon County
+1021,RARITAN,Hunterdon County
+1022,READINGTON,Hunterdon County
+1023,STOCKTON,Hunterdon County
+1024,TEWKSBURY,Hunterdon County
+1025,UNION,Hunterdon County
+1026,WEST AMWELL,Hunterdon County
+1101,EAST WINDSOR,Mercer County
+1102,EWING,Mercer County
+1103,HAMILTON,Mercer County
+1104,HIGHTSTOWN,Mercer County
+1105,HOPEWELL,Mercer County
+1106,HOPEWELL,Mercer County
+1107,LAWRENCE,Mercer County
+1108,PENNINGTON,Mercer County
+1111,TRENTON,Mercer County
+1112,ROBBINSVILLE,Mercer County
+1113,WEST WINDSOR,Mercer County
+1114,PRINCETON**,Mercer County
+1201,CARTERET,Middlesex County
+1202,CRANBURY,Middlesex County
+1203,DUNELLEN,Middlesex County
+1204,EAST BRUNSWICK,Middlesex County
+1205,EDISON,Middlesex County
+1206,HELMETTA,Middlesex County
+1207,HIGHLAND PARK,Middlesex County
+1208,JAMESBURG,Middlesex County
+1209,METUCHEN,Middlesex County
+1210,MIDDLESEX,Middlesex County
+1211,MILLTOWN,Middlesex County
+1212,MONROE,Middlesex County
+1213,NEW BRUNSWICK,Middlesex County
+1214,NORTH BRUNSWICK,Middlesex County
+1215,OLD BRIDGE,Middlesex County
+1216,PERTH AMBOY,Middlesex County
+1217,PISCATAWAY,Middlesex County
+1218,PLAINSBORO,Middlesex County
+1219,SAYREVILLE,Middlesex County
+1220,SOUTH AMBOY,Middlesex County
+1221,SOUTH BRUNSWICK,Middlesex County
+1222,SOUTH PLAINFIELD,Middlesex County
+1223,SOUTH RIVER,Middlesex County
+1224,SPOTSWOOD,Middlesex County
+1225,WOODBRIDGE,Middlesex County
+1301,ABERDEEN,Monmouth County
+1302,ALLENHURST,Monmouth County
+1303,ALLENTOWN,Monmouth County
+1304,ASBURY PARK,Monmouth County
+1305,ATLANTIC HIGHLANDS,Monmouth County
+1306,AVON BY THE SEA,Monmouth County
+1307,BELMAR,Monmouth County
+1308,BRADLEY BEACH,Monmouth County
+1309,BRIELLE,Monmouth County
+1310,COLTS NECK,Monmouth County
+1311,DEAL,Monmouth County
+1312,EATONTOWN,Monmouth County
+1313,ENGLISHTOWN,Monmouth County
+1314,FAIR HAVEN,Monmouth County
+1315,FARMINGDALE,Monmouth County
+1316,FREEHOLD,Monmouth County
+1317,FREEHOLD,Monmouth County
+1318,HAZLET,Monmouth County
+1319,HIGHLANDS,Monmouth County
+1320,HOLMDEL,Monmouth County
+1321,HOWELL,Monmouth County
+1322,INTERLAKEN,Monmouth County
+1323,KEANSBURG,Monmouth County
+1324,KEYPORT,Monmouth County
+1325,LITTLE SILVER,Monmouth County
+1326,LOCH ARBOUR,Monmouth County
+1327,LONG BRANCH,Monmouth County
+1328,MANALAPAN,Monmouth County
+1329,MANASQUAN,Monmouth County
+1330,MARLBORO,Monmouth County
+1331,MATAWAN,Monmouth County
+1332,MIDDLETOWN,Monmouth County
+1333,MILLSTONE,Monmouth County
+1334,MONMOUTH BEACH,Monmouth County
+1335,NEPTUNE,Monmouth County
+1336,NEPTUNE CITY,Monmouth County
+1337,OCEAN,Monmouth County
+1338,OCEANPORT,Monmouth County
+1339,RED BANK,Monmouth County
+1340,ROOSEVELT,Monmouth County
+1341,RUMSON,Monmouth County
+1342,SEA BRIGHT,Monmouth County
+1343,SEA GIRT,Monmouth County
+1344,SHREWSBURY,Monmouth County
+1345,SHREWSBURY,Monmouth County
+1346,LAKE COMO,Monmouth County
+1347,SPRING LAKE,Monmouth County
+1348,SPRING LAKE HEIGHTS,Monmouth County
+1349,TINTON FALLS,Monmouth County
+1350,UNION BEACH,Monmouth County
+1351,UPPER FREEHOLD,Monmouth County
+1352,WALL,Monmouth County
+1353,WEST LONG BRANCH,Monmouth County
+1401,BOONTON,Morris County
+1402,BOONTON,Morris County
+1403,BUTLER,Morris County
+1404,CHATHAM,Morris County
+1405,CHATHAM,Morris County
+1406,CHESTER,Morris County
+1407,CHESTER,Morris County
+1408,DENVILLE,Morris County
+1409,DOVER,Morris County
+1410,EAST HANOVER,Morris County
+1411,FLORHAM PARK,Morris County
+1412,HANOVER,Morris County
+1413,HARDING,Morris County
+1414,JEFFERSON,Morris County
+1415,KINNELON,Morris County
+1416,LINCOLN PARK,Morris County
+1417,MADISON,Morris County
+1418,MENDHAM,Morris County
+1419,MENDHAM,Morris County
+1420,MINE HILL,Morris County
+1421,MONTVILLE,Morris County
+1422,MORRIS,Morris County
+1423,MORRIS PLAINS,Morris County
+1424,MORRISTOWN,Morris County
+1425,MOUNTAIN LAKES,Morris County
+1426,MOUNT ARLINGTON,Morris County
+1427,MOUNT OLIVE,Morris County
+1428,NETCONG,Morris County
+1429,PARSIPPANY TR HLS,Morris County
+1430,LONG HILL,Morris County
+1431,PEQUANNOCK,Morris County
+1432,RANDOLPH,Morris County
+1433,RIVERDALE,Morris County
+1434,ROCKAWAY,Morris County
+1435,ROCKAWAY,Morris County
+1436,ROXBURY,Morris County
+1437,VICTORY GARDENS,Morris County
+1438,WASHINGTON,Morris County
+1439,WHARTON,Morris County
+1501,BARNEGAT,Ocean County
+1502,BARNEGAT LIGHT,Ocean County
+1503,BAY HEAD,Ocean County
+1504,BEACH HAVEN,Ocean County
+1505,BEACHWOOD,Ocean County
+1506,BERKELEY,Ocean County
+1507,BRICK,Ocean County
+1508,TOMS RIVER,Ocean County
+1509,EAGLESWOOD,Ocean County
+1510,HARVEY CEDARS,Ocean County
+1511,ISLAND HEIGHTS,Ocean County
+1512,JACKSON,Ocean County
+1513,LACEY,Ocean County
+1514,LAKEHURST,Ocean County
+1515,LAKEWOOD,Ocean County
+1516,LAVALLETTE,Ocean County
+1517,LITTLE EGG HARBOR,Ocean County
+1518,LONG BEACH,Ocean County
+1519,MANCHESTER,Ocean County
+1520,MANTOLOKING,Ocean County
+1521,OCEAN,Ocean County
+1522,OCEAN GATE,Ocean County
+1523,PINE BEACH,Ocean County
+1524,PLUMSTED,Ocean County
+1525,POINT PLEASANT,Ocean County
+1526,PT PLEASANT BEACH,Ocean County
+1527,SEASIDE HEIGHTS,Ocean County
+1528,SEASIDE PARK,Ocean County
+1529,SHIP BOTTOM,Ocean County
+1530,SOUTH TOMS RIVER,Ocean County
+1531,STAFFORD,Ocean County
+1532,SURF CITY,Ocean County
+1533,TUCKERTON,Ocean County
+1601,BLOOMINGDALE,Passaic County
+1602,CLIFTON,Passaic County
+1603,HALEDON,Passaic County
+1604,HAWTHORNE,Passaic County
+1605,LITTLE FALLS,Passaic County
+1606,NORTH HALEDON,Passaic County
+1607,PASSAIC,Passaic County
+1608,PATERSON,Passaic County
+1609,POMPTON LAKES,Passaic County
+1610,PROSPECT PARK,Passaic County
+1611,RINGWOOD,Passaic County
+1612,TOTOWA,Passaic County
+1613,WANAQUE,Passaic County
+1614,WAYNE,Passaic County
+1615,WEST MILFORD,Passaic County
+1616,WOODLAND PARK,Passaic County
+1701,ALLOWAY,Salem County
+1702,CARNEYS POINT,Salem County
+1703,ELMER,Salem County
+1704,ELSINBORO,Salem County
+1705,LOWER ALLOWAY CREEK,Salem County
+1706,MANNINGTON,Salem County
+1707,OLDMANS,Salem County
+1708,PENNS GROVE,Salem County
+1709,PENNSVILLE,Salem County
+1710,PILESGROVE,Salem County
+1711,PITTSGROVE,Salem County
+1712,QUINTON,Salem County
+1713,SALEM,Salem County
+1714,UPPER PITTSGROVE,Salem County
+1715,WOODSTOWN,Salem County
+1801,BEDMINSTER,Somerset County
+1802,BERNARDS,Somerset County
+1803,BERNARDSVILLE,Somerset County
+1804,BOUND BROOK,Somerset County
+1805,BRANCHBURG,Somerset County
+1806,BRIDGEWATER,Somerset County
+1807,FAR HILLS,Somerset County
+1808,FRANKLIN,Somerset County
+1809,GREEN BROOK,Somerset County
+1810,HILLSBOROUGH,Somerset County
+1811,MANVILLE,Somerset County
+1812,MILLSTONE,Somerset County
+1813,MONTGOMERY,Somerset County
+1814,NORTH PLAINFIELD,Somerset County
+1815,PEAPACK GLADSTONE,Somerset County
+1816,RARITAN,Somerset County
+1817,ROCKY HILL,Somerset County
+1818,SOMERVILLE,Somerset County
+1819,SO BOUND BROOK,Somerset County
+1820,WARREN,Somerset County
+1821,WATCHUNG,Somerset County
+1901,ANDOVER,Sussex County
+1902,ANDOVER,Sussex County
+1903,BRANCHVILLE,Sussex County
+1904,BYRAM,Sussex County
+1905,FRANKFORD,Sussex County
+1906,FRANKLIN,Sussex County
+1907,FREDON,Sussex County
+1908,GREEN,Sussex County
+1909,HAMBURG,Sussex County
+1910,HAMPTON,Sussex County
+1911,HARDYSTON,Sussex County
+1912,HOPATCONG,Sussex County
+1913,LAFAYETTE,Sussex County
+1914,MONTAGUE,Sussex County
+1915,NEWTON,Sussex County
+1916,OGDENSBURG,Sussex County
+1917,SANDYSTON,Sussex County
+1918,SPARTA,Sussex County
+1919,STANHOPE,Sussex County
+1920,STILLWATER,Sussex County
+1921,SUSSEX,Sussex County
+1922,VERNON,Sussex County
+1923,WALPACK,Sussex County
+1924,WANTAGE,Sussex County
+2001,BERKELEY HEIGHTS,Union County
+2002,CLARK,Union County
+2003,CRANFORD,Union County
+2004,ELIZABETH,Union County
+2005,FANWOOD,Union County
+2006,GARWOOD,Union County
+2007,HILLSIDE,Union County
+2008,KENILWORTH,Union County
+2009,LINDEN,Union County
+2010,MOUNTAINSIDE,Union County
+2011,NEW PROVIDENCE,Union County
+2012,PLAINFIELD,Union County
+2013,RAHWAY,Union County
+2014,ROSELLE,Union County
+2015,ROSELLE PARK,Union County
+2016,SCOTCH PLAINS,Union County
+2017,SPRINGFIELD,Union County
+2018,SUMMIT,Union County
+2019,UNION,Union County
+2020,WESTFIELD,Union County
+2021,WINFIELD,Union County
+2101,ALLAMUCHY,Warren County
+2102,ALPHA,Warren County
+2103,BELVIDERE,Warren County
+2104,BLAIRSTOWN,Warren County
+2105,FRANKLIN,Warren County
+2106,FRELINGHUYSEN,Warren County
+2107,GREENWICH,Warren County
+2108,HACKETTSTOWN,Warren County
+2109,HARDWICK,Warren County
+2110,HARMONY,Warren County
+2111,HOPE,Warren County
+2112,INDEPENDENCE,Warren County
+2113,KNOWLTON,Warren County
+2114,LIBERTY,Warren County
+2115,LOPATCONG,Warren County
+2116,MANSFIELD,Warren County
+2117,OXFORD,Warren County
+2119,PHILLIPSBURG,Warren County
+2120,POHATCONG,Warren County
+2121,WASHINGTON,Warren County
+2122,WASHINGTON,Warren County
+2123,WHITE,Warren County
